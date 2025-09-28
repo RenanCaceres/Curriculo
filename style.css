@@ -1,0 +1,42 @@
+body{
+    font-family: 'Playfair Display', serif;
+}
+
+.titulo {
+    font-family: 'Times New Roman', serif;
+    font-style: italic;
+    font-size: 20px;
+    text-align: center;
+    margin: 10px;
+    padding: 0;
+}
+
+#image {
+    width: 300px;
+    height: auto;
+    margin: 10px auto; 
+    display: block;
+    border-radius: 50%;
+}
+
+#list{
+    width: fit-content;
+    margin: 0 auto;
+    font-style:oblique
+}
+
+#link1 {
+    color: blue;
+    text-decoration: none;
+}
+#link1:hover {
+    color: red;
+}
+
+#link2 {
+    color: purple;
+    text-decoration: none;
+}
+#link2:hover {
+    color: red;
+}
